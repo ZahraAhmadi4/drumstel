@@ -1,0 +1,72 @@
+body{
+	background-color: black;
+	font-family: 'Comfortaa', cursive;
+}
+
+h1{
+	color: white;
+	text-align: center;
+	margin-top: 4em;
+	font-size: 35px;
+}
+
+p{
+	color: white;
+	text-align: center;
+	font-size: 25px;
+}
+
+#vraag{
+	color: red;
+	text-align: center;
+	font-size: 18px;
+	margin-top: 5em;
+}
+
+
+div{
+	width: 40%;
+	margin-left: 30%;
+	margin-right: 30%
+
+}
+
+#clap, #hihat, #kick, #snare, #tom{
+	margin: 80px 5px 100px 5px;
+	padding: 2em;
+	border: 2px solid grey;
+	border-radius: 15%;
+	background: rgba(0,0,0,0.3);
+  	color: white;
+
+}
+
+
+img{
+	width: 30%;
+	margin-left: 35%;
+	margin-right: 35%;
+	margin-top: 7em;
+}
+
+#vraag{
+	color: red;
+}
+
+select{
+
+	padding: 1em;
+	width: 20%;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+#antwoord{
+	font-size: 16px;
+	color: white;
+	margin-top: 3em;
+}
+
+
+
+
